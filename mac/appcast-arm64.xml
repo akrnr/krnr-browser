@@ -3,12 +3,12 @@
   <channel>
     <title>krnr Browser</title>
     <item>
-      <title>krnr Browser 0.19.2.1 (28)</title>
-      <pubDate>Wed, 28 Oct 2026 14:29:22 +0000</pubDate>
-      <sparkle:version>28</sparkle:version>
+      <title>krnr Browser 0.19.2.1 (29)</title>
+      <pubDate>Wed, 28 Oct 2026 16:06:19 +0000</pubDate>
+      <sparkle:version>29</sparkle:version>
       <sparkle:shortVersionString>0.19.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/akrnr/krnr-browser/releases/download/v28/krnr-Browser-28.dmg" type="application/octet-stream" sparkle:edSignature="D8D4eqOfYtI//ss/SPqtOVbcDjoI9ZyZj0ce2+LObd0Llg05nLKhZ58ZrT2DPMA6gc9nd7iXqjeI8Xwy3d8DBw==" length="123252772" />
+      <enclosure url="https://github.com/akrnr/krnr-browser/releases/download/v29/krnr-Browser-29.dmg" type="application/octet-stream" sparkle:edSignature="pmw5Bz7UbxjtOa16TVPaNBF9bYvyTUwixWBvziqnUfXx3NO+VUpI26NV3W0KI/K9MfCjqwDhbN5Pl0MyVeR5BQ==" length="122822002" />
     </item>
   </channel>
 </rss>
