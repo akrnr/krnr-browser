@@ -1,30 +1,69 @@
 {
   "builds": [
-    {"build": 47, "date": "2026-11-06", "items": [
-      "Neu: Nach einem Update zeigt krnr, was sich geändert hat. Ältere Release Notes: Einstellungen › Über."
-    ]},
-    {"build": 46, "date": "2026-11-06", "items": [
-      "Ordner-Tabs starten wie Pins immer mit ihrer Base-URL – nach dem Start, nach dem Schließen und nach dem Entladen.",
-      "Ordner klappen nicht mehr von selbst auf; nur ein Klick auf den Ordnernamen öffnet sie."
-    ]},
-    {"build": 45, "date": "2026-11-05", "items": [
-      "Links aus Pins (z. B. Slack) öffnen am Ende der normalen Tabs, nie zwischen den Ordnern."
-    ]},
-    {"build": 44, "date": "2026-11-05", "items": [
-      "Links aus Ordner-Tabs öffnen direkt bei den normalen Tabs, der Ordner bleibt zu."
-    ]},
-    {"build": 43, "date": "2026-11-05", "items": [
-      "⌘W und Mittelklick entladen Pins und Ordner-Tabs nur; entfernen geht über das Kontextmenü."
-    ]},
-    {"build": 42, "date": "2026-11-04", "items": [
-      "Pins starten nach dem Start oder Entladen immer mit ihrer Base-URL.",
-      "Ein geschlossener Ordner-Tab startet beim nächsten Öffnen mit seiner Base-URL."
-    ]},
-    {"build": 41, "date": "2026-11-03", "items": [
-      "Seitenleiste und Fensterrahmen haben wieder die Grundfarbe des Farbschemas."
-    ]},
-    {"build": 40, "date": "2026-11-02", "items": [
-      "Update auf Chromium 156 (Helium 0.20.3.1) mit den aktuellen Sicherheitsupdates."
-    ]}
+    {
+      "build": 48,
+      "date": "2026-11-09",
+      "items": [
+        "Update auf Chromium 157 (Helium 0.21.1.1) mit den aktuellen Sicherheitsupdates."
+      ]
+    },
+    {
+      "build": 47,
+      "date": "2026-11-06",
+      "items": [
+        "Neu: Nach einem Update zeigt krnr, was sich geändert hat. Ältere Release Notes: Einstellungen › Über."
+      ]
+    },
+    {
+      "build": 46,
+      "date": "2026-11-06",
+      "items": [
+        "Ordner-Tabs starten wie Pins immer mit ihrer Base-URL – nach dem Start, nach dem Schließen und nach dem Entladen.",
+        "Ordner klappen nicht mehr von selbst auf; nur ein Klick auf den Ordnernamen öffnet sie."
+      ]
+    },
+    {
+      "build": 45,
+      "date": "2026-11-05",
+      "items": [
+        "Links aus Pins (z. B. Slack) öffnen am Ende der normalen Tabs, nie zwischen den Ordnern."
+      ]
+    },
+    {
+      "build": 44,
+      "date": "2026-11-05",
+      "items": [
+        "Links aus Ordner-Tabs öffnen direkt bei den normalen Tabs, der Ordner bleibt zu."
+      ]
+    },
+    {
+      "build": 43,
+      "date": "2026-11-05",
+      "items": [
+        "⌘W und Mittelklick entladen Pins und Ordner-Tabs nur; entfernen geht über das Kontextmenü."
+      ]
+    },
+    {
+      "build": 42,
+      "date": "2026-11-04",
+      "items": [
+        "Pins starten nach dem Start oder Entladen immer mit ihrer Base-URL.",
+        "Ein geschlossener Ordner-Tab startet beim nächsten Öffnen mit seiner Base-URL."
+      ]
+    },
+    {
+      "build": 41,
+      "date": "2026-11-03",
+      "items": [
+        "Seitenleiste und Fensterrahmen haben wieder die Grundfarbe des Farbschemas."
+      ]
+    },
+    {
+      "build": 40,
+      "date": "2026-11-02",
+      "items": [
+        "Update auf Chromium 156 (Helium 0.20.3.1) mit den aktuellen Sicherheitsupdates."
+      ]
+    }
   ]
 }
