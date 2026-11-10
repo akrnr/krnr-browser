@@ -1,6 +1,13 @@
 {
   "builds": [
     {
+      "build": 49,
+      "date": "2026-11-10",
+      "items": [
+        "App-Icon folgt jetzt dem macOS-Erscheinungsbild: eigene Varianten für Hell, Dunkel, Getönt und Klar."
+      ]
+    },
+    {
       "build": 48,
       "date": "2026-11-09",
       "items": [
