@@ -1,6 +1,13 @@
 {
   "builds": [
     {
+      "build": 51,
+      "date": "2026-11-11",
+      "items": [
+        "Einstellungen: Unterfenster wie „Link-Regeln“ und „Release Notes anzeigen“ reagieren wieder auf OK, Abbrechen und X."
+      ]
+    },
+    {
       "build": 50,
       "date": "2026-11-11",
       "items": [
