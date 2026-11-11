@@ -1,6 +1,14 @@
 {
   "builds": [
     {
+      "build": 50,
+      "date": "2026-11-11",
+      "items": [
+        "Erneuter Klick auf einen aktiven Pin oder Folder-Tab lädt nicht mehr neu und setzt nicht auf die Base-URL zurück.",
+        "Doppelklick auf einen Tab öffnet nicht mehr das Umbenennen – umbenennen per Rechtsklick. Wer den Doppelklick will: Einstellungen › Ordner & Tabs › „Tabs per Doppelklick umbenennen“."
+      ]
+    },
+    {
       "build": 49,
       "date": "2026-11-10",
       "items": [
