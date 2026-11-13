@@ -1,6 +1,13 @@
 {
   "builds": [
     {
+      "build": 54,
+      "date": "2026-11-13",
+      "items": [
+        "Eingeklappte Seitenleiste: Beim Aufklappen per Maus erscheinen Adresszeile und Fensterknöpfe jetzt auch, wenn die Seitenleiste schmal gezogen ist."
+      ]
+    },
+    {
       "build": 53,
       "date": "2026-11-13",
       "items": [
