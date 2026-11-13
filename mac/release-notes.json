@@ -1,6 +1,20 @@
 {
   "builds": [
     {
+      "build": 52,
+      "date": "2026-11-12",
+      "items": [
+        "Neue Startseite im krnr-Stil mit Uhr, Datum und den wichtigsten Kürzeln.",
+        "Fehlerseiten („Website nicht erreichbar“) im krnr-Stil.",
+        "Einstellungen › Sicherung: Ordner, Pins, Link-Regeln und Farbschema als Datei exportieren und importieren.",
+        "Base-URL: Eine neu angepinnte oder in einen Ordner gelegte Seite behält ihre eigene Adresse, auch wenn es schon einen Pin derselben Website gibt.",
+        "Interne Seiten heißen jetzt krnr://… statt helium://… (z. B. krnr://settings); die alte Schreibweise funktioniert weiter.",
+        "Helium-Nennungen aus Einstellungen, Meldungen und Einrichtung entfernt; die Dienste heißen jetzt „krnr services“.",
+        "Layout aufgeräumt: Die Seitenleiste ist das einzige Layout, horizontale Tabs und die Layout-Auswahl sind entfernt. „Tabs rechts“ bleibt.",
+        "Intern: automatischer Rauchtest nach jedem Build."
+      ]
+    },
+    {
       "build": 51,
       "date": "2026-11-11",
       "items": [
