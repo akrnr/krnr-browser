@@ -1,6 +1,17 @@
 {
   "builds": [
     {
+      "build": 53,
+      "date": "2026-11-13",
+      "items": [
+        "Absturz beim Einschalten von „Tabs rechts“ behoben.",
+        "Pins gehen nach einem Absturz nicht mehr verloren: Kommt die Sitzung nicht zurück, werden sie aus dem zuletzt gespeicherten Stand wiederhergestellt.",
+        "Startseite: Die Uhr zeigt standardmäßig 24-Stunden-Zeit. Umstellbar unter Einstellungen › Darstellung › „Startseite: Uhrzeit im 24-Stunden-Format“.",
+        "Eingeklappte Seitenleiste: keine Leiste mehr über dem Fenster, nur der schmale Icon-Streifen. Fährt die Maus darüber, klappt die volle Seitenleiste mit Adresszeile und Fensterknöpfen auf (abschaltbar unter Einstellungen › Ordner & Tabs). ⌘L und ⌘T öffnen eingeklappt die Befehlsleiste.",
+        "Eingeklappte Seitenleiste mit Ordnern: Im Icon-Streifen zeigt der Ordner nur sein Symbol; beim Aufklappen per Maus sieht die Leiste aus wie normal aufgeklappt, mit Trennlinie."
+      ]
+    },
+    {
       "build": 52,
       "date": "2026-11-12",
       "items": [
