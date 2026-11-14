@@ -1,6 +1,14 @@
 {
   "builds": [
     {
+      "build": 55,
+      "date": "2026-11-14",
+      "items": [
+        "Eingeklappte Seitenleiste: Beim Aufklappen per Maus verdeckte die Lesezeichenleiste (Raster-Symbol) die Pins. Jetzt liegt nur die Adresszeile darüber, die Pins bleiben sichtbar.",
+        "Kontextmenü von Pins und Ordner-Tabs: „Tab schließen“ entlädt den Tab nur, er bleibt an seinem Platz. Entfernen geht über „Pin entfernen“ bzw. „Tab entfernen“."
+      ]
+    },
+    {
       "build": 54,
       "date": "2026-11-13",
       "items": [
