@@ -1,6 +1,13 @@
 {
   "builds": [
     {
+      "build": 60,
+      "date": "2026-11-16",
+      "items": [
+        "Tab-Kontextmenü: „In Mini-Fenster öffnen“ löst einen Tab in ein eigenes kleines Fenster heraus, ohne ein ganzes Browserfenster zu öffnen. Bei Pins und Ordner-Tabs öffnet sich ihre Seite im Mini-Fenster, der Tab selbst bleibt an seinem Platz (entladen). Zurück geht es über den Knopf „In Seitenleiste öffnen“ im Mini-Fenster."
+      ]
+    },
+    {
       "build": 59,
       "date": "2026-11-16",
       "items": [
