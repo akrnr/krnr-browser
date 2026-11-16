@@ -1,6 +1,14 @@
 {
   "builds": [
     {
+      "build": 59,
+      "date": "2026-11-16",
+      "items": [
+        "Eingeklappte Seitenleiste: Eine Trennlinie zeigt auch im Icon-Streifen, wo die Ordner enden und die normalen Tabs beginnen.",
+        "Eingeklappte Seitenleiste: Solange die Befehlsleiste offen ist (z. B. neuer Tab mit ⌘T), klappt die Seitenleiste beim Darüberfahren nicht mehr auf und liegt damit nicht mehr halb unter dem grauen Hintergrund."
+      ]
+    },
+    {
       "build": 58,
       "date": "2026-11-16",
       "items": [
