@@ -1,6 +1,13 @@
 {
   "builds": [
     {
+      "build": 57,
+      "date": "2026-11-16",
+      "items": [
+        "Eingeklappte Seitenleiste: weicher Übergang beim Auf- und Zuklappen. Die Fensterknöpfe blenden aus, die Leiste mit Adresszeile blendet mit der Breite der Seitenleiste ein."
+      ]
+    },
+    {
       "build": 56,
       "date": "2026-11-16",
       "items": [
