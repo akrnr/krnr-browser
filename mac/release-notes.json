@@ -1,6 +1,13 @@
 {
   "builds": [
     {
+      "build": 56,
+      "date": "2026-11-16",
+      "items": [
+        "Eingeklappte Seitenleiste: Die Fensterknöpfe (Schließen, Minimieren, Vollbild) stehen jetzt senkrecht über dem ersten Pin, statt dass dort eine leere Fläche ist."
+      ]
+    },
+    {
       "build": 55,
       "date": "2026-11-14",
       "items": [
