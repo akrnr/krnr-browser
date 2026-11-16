@@ -1,6 +1,13 @@
 {
   "builds": [
     {
+      "build": 58,
+      "date": "2026-11-16",
+      "items": [
+        "Eingeklappte Seitenleiste: Ein Klick auf die Adresszeile der aufgeklappten Leiste öffnet wieder die Befehlsleiste; vorher ging der Klick an die Seite darunter."
+      ]
+    },
+    {
       "build": 57,
       "date": "2026-11-16",
       "items": [
