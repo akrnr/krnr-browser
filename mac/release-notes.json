@@ -1,6 +1,13 @@
 {
   "builds": [
     {
+      "build": 61,
+      "date": "2026-11-18",
+      "items": [
+        "Update auf Helium 0.21.3.1 mit Chromium 157.0.8103.78 (aktuelle Sicherheits- und Fehlerkorrekturen)."
+      ]
+    },
+    {
       "build": 60,
       "date": "2026-11-16",
       "items": [
