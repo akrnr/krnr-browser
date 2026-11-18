@@ -1,6 +1,13 @@
 {
   "builds": [
     {
+      "build": 62,
+      "date": "2026-11-18",
+      "items": [
+        "Ordner-Tabs und Pins öffnen nach einem Neustart wieder auf ihrer eigenen Base-URL. Bisher konnte ein Ordner-Tab die Base-URL eines Pins derselben Website übernehmen."
+      ]
+    },
+    {
       "build": 61,
       "date": "2026-11-18",
       "items": [
