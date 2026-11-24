@@ -1,6 +1,14 @@
 {
   "builds": [
     {
+      "build": 63,
+      "date": "2026-11-24",
+      "items": [
+        "Update auf Helium 0.22.2.1 mit Chromium 158.0.8127.36 (aktuelle Sicherheits- und Fehlerkorrekturen).",
+        "Pins nutzen das neue Kachel-Layout von Helium: gleichmäßig verteilt in einem gemeinsamen Rahmen."
+      ]
+    },
+    {
       "build": 62,
       "date": "2026-11-18",
       "items": [
