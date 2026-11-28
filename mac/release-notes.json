@@ -1,6 +1,13 @@
 {
   "builds": [
     {
+      "build": 64,
+      "date": "2026-11-26",
+      "items": [
+        "Zwei neue Farbschemata für hell und dunkel: „Azur“ (klares Blau mit kühlen Grautönen) und „Flat UI“ (nach dem gleichnamigen VS-Code-Theme, helles Grau mit Türkis). Auswahl in den krnr-Einstellungen unter Farbschema."
+      ]
+    },
+    {
       "build": 63,
       "date": "2026-11-24",
       "items": [
